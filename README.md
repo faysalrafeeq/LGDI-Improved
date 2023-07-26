@@ -12,13 +12,23 @@ using traffic volume dataset from kaggle.
 
 ### Command inputs:
 1). Make sure you have anaconda installed. It already has a virtual environment inside it. We only need to create one.
+
+
 2). Create a virtual environment:
 python3 -m venv python_venv
+
+
 3) Activate the virtual environment:
 source python_venv/bin/activate
+
+
 4). To download the dependencies from the environment :
     4.1) pip3 install -r requirements.txt
     4.2) conda env create -f environment.yml ( From Conda)
+
+    
 5). Run jupyter notebook command.
 jupyter-notebook
+
+
 6). Every algorithm is in a separate file.
