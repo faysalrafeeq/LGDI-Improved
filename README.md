@@ -1,20 +1,19 @@
 # Codebase for "Improved LGDI algorithm "
-# This directory contains implementations of the LGDI framework for imputation
-# using traffic volume dataset from Kaggle.
+### This directory contains implementations of the LGDI framework for time series imputation using the traffic volume dataset from Kaggle.
 
-# Paper and Authors: 
+### Paper and Authors: 
 R. Wu, S. D. Hamshaw, L. Yang, D. W. Kincaid, R. Etheridge and A. Ghasemkhani, 
 "Data Imputation for Multivariate Time Series Sensor Data With Large Gaps of Missing Data,
 "in IEEE Sensors Journal, vol. 22, no. 11, pp. 10671-10683, 
 June 1, 2022.
  
-# Paper Link: doi: 10.1109/JSEN.2022.3166643.
+### Paper Link: doi: 10.1109/JSEN.2022.3166643.
 
-#  DataSource:
+###  DataSource:
 - Kaggle (https://www.kaggle.com/datasets/mikedev/metro-traffic-volume)
 
 
-# Running the repo
+### Running the repo
 1). Make sure you have anaconda installed. It already has a virtual environment inside it. We only need to create one.
 
 
